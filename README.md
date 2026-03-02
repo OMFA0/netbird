@@ -1,6 +1,6 @@
-# 🧰 IT KONTROLL – Script Index
+# 🧰 IT KONTROLL – Script netbird install
 
-> Samling av mine viktigste skript for overvåking, NetBird, Flask-apper og serverdrift.
+> Access to netbird network.
 
 ---
 
